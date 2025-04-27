@@ -74,6 +74,8 @@ nav {
 
 /* Intro Section */
 .intro {
+/*     background: url('intro.jpg') no-repeat center center fixed;
+    background-size: cover; */
     background: linear-gradient(to right, #007bff, #00c4ff);
     color: #fff;
     min-height: 100vh;
